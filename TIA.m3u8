@@ -3,4 +3,4 @@
 
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://etslive-2-vidio-com.akamaized.net/exp=1584048328~acl=/hls-b/ingest_204_*/*~hmac=ccae6a264f8dcbbe18c52b4286db44fa9489fcec86267c976677eb4ffd0084fd/hls-b/ingest_204_720p/index.m3u8
+http://34.102.147.202/live/b2/chunks.m3u8
